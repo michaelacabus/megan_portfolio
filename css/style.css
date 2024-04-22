@@ -1,0 +1,43 @@
+body {
+    margin:0px;
+    padding:0px;
+
+}
+
+    #circle {
+        background-color:#D9D9D9;
+        border-radius: 50%;
+        width: 806px;
+        height: 806px; 
+        margin: 0 auto;
+        border: 1px solid #000000;
+        display: grid;
+        justify-self: center;
+        align-items: center;
+}
+
+#inner_circle {
+    width:723px;
+    height: 723px;
+    margin: 0 auto;
+    border: 1px solid #000000;
+    border-radius:50%;
+}
+
+
+#inner_circle {
+    font-family: "Inter", sans-serif;
+    display: flex;
+    justify-self: center;
+    align-items: center;
+}
+
+#inner_circle h4 {
+    font-size: 96px;
+    margin: 0px;
+}
+
+.intro_text p {
+    font-size: 12px;
+    width: 200px;
+}
